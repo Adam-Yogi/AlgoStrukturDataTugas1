@@ -1,30 +1,30 @@
-Adit Balmun, DKI Jakarta
-Ling Chou Yi, Kepulauan Riau
-Layla Nugroho, Banten
-Pharsa Al Katiri, Maluku
-Joy Minsiter, DKI Jakarta
-Julian Dgashandy, Riau
-Thomas Hanzo, Jawa Tengah
-Sultan Al Faramis, Aceh
-Melissa Moeremans, Papua
-Freddrin S, Jawa Tengah
-Franc Olsen Hook, Denmark
-Hera Valentina, 
-Edith Brook, Scotland
-Fanny Sutejo, DI Yogyakarta
-Alice Pam, 
-Karin A, Jawa Barat
-Lesley Kejora, 
-Angela Susanti, Sumatera Barat
-Natan Farel, 
-Granger Nate,
-Kimmy B Johnson, USA
-Xavier Estesban, Colombia
-Arlott Poernomo, Jawa Timur
-Super Gloo, Mars
-Natalia Meunier, Belgium
-Hababi Sanjou,
-Sober Rom, 
-Badang Pernandes, Binjai
-Khufra Ramses, Mesir
-Rizky Kagurah, Apartemen Taman Melati
+Adit Balmun,DKI Jakarta,80,KOMC
+Ling Chou Yi,Kepulauan Riau,75,KOMA
+Layla Nugroho,Banten,69,KOMB
+Pharsa Al Katiri,Maluku,93,KOMD
+Joy Minsiter,DKI Jakarta,88,KOMA
+Julian Dgashandy,Riau,82,KOMC
+Thomas Hanzo,Jawa Tengah,76,KOMB
+Sultan Al Faramis,Aceh,77,KOMB
+Melissa Moeremans,Papua,72,KOMB
+Freddrin S,Jawa Tengah,79,KOMA
+Franc Olsen Hook,Jawa Timur,80,KOMB
+Hera Valentina,Jawa Barat,90,KOMA
+Edith Brook,Kalimantan Timur,83,KOMA
+Fanny Sutejo,DI Yogyakarta,77,KOMA
+Alice Pam,Sulawesi Tenggara,68,KOMC
+Karin A,Jawa Barat,82,KOMC
+Lesley Kejora,Jakarta,76,KOMC
+Angela Susanti,Sumatera Barat,43,KOMC
+Natan Farel,Yogyakarta,83,KOMC
+Granger Nate,Kalimantan Tengah,74,KOMD
+Kimmy B Johnson,Bali,81,KOMD
+Xavier Estesban,Sumatera Selatan,84,KOMD
+Arlott Poernomo,Jawa Timur,76,KOMD
+Super Gloo,Banten,87,KOMD
+Natalia Meunier,Sulawesi Utara,89,KOMC
+Hababi Sanjou,Sulawesi Selatan,80,KOMB
+Sober Rom,Jawa Timur,75,KOMD
+Badang Pernandes,Sumatera Barat,88,KOMD
+Khufra Ramses,Aceh,67,KOMD
+Rizky Kagurah,Jawa Barat,72,KOMB
