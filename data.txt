@@ -1,4 +1,4 @@
-Adit Balmun,DKI Jakarta,80,KOMC
+Adit Balmun,DKI Jakarta,33,KOMC
 Ling Chou Yi,Kepulauan Riau,75,KOMA
 Layla Nugroho,Banten,69,KOMB
 Pharsa Al Katiri,Maluku,93,KOMD
